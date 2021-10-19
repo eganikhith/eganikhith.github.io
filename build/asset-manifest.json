@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Library-App/static/css/main.01dfbae3.chunk.css",
+    "main.js": "/Library-App/static/js/main.54590a2b.chunk.js",
+    "main.js.map": "/Library-App/static/js/main.54590a2b.chunk.js.map",
+    "runtime-main.js": "/Library-App/static/js/runtime-main.d966c134.js",
+    "runtime-main.js.map": "/Library-App/static/js/runtime-main.d966c134.js.map",
+    "static/js/2.d46ef1a7.chunk.js": "/Library-App/static/js/2.d46ef1a7.chunk.js",
+    "static/js/2.d46ef1a7.chunk.js.map": "/Library-App/static/js/2.d46ef1a7.chunk.js.map",
+    "index.html": "/Library-App/index.html",
+    "precache-manifest.d2b0e658fa7b1e12636cec18314a8ba6.js": "/Library-App/precache-manifest.d2b0e658fa7b1e12636cec18314a8ba6.js",
+    "service-worker.js": "/Library-App/service-worker.js",
+    "static/css/main.01dfbae3.chunk.css.map": "/Library-App/static/css/main.01dfbae3.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d966c134.js",
+    "static/js/2.d46ef1a7.chunk.js",
+    "static/css/main.01dfbae3.chunk.css",
+    "static/js/main.54590a2b.chunk.js"
+  ]
+}
